@@ -1,0 +1,8 @@
+C:\Users\崇\Desktop\srt字幕修正器\srt字幕修正器\bin\Debug\srt字幕修正器.exe
+C:\Users\崇\Desktop\srt字幕修正器\srt字幕修正器\bin\Debug\srt字幕修正器.pdb
+C:\Users\崇\Desktop\srt字幕修正器\srt字幕修正器\obj\Debug\srt字幕修正器.csprojResolveAssemblyReference.cache
+C:\Users\崇\Desktop\srt字幕修正器\srt字幕修正器\obj\Debug\srt字幕修正器.Form1.resources
+C:\Users\崇\Desktop\srt字幕修正器\srt字幕修正器\obj\Debug\srt字幕修正器.Properties.Resources.resources
+C:\Users\崇\Desktop\srt字幕修正器\srt字幕修正器\obj\Debug\srt字幕修正器.csproj.GenerateResource.Cache
+C:\Users\崇\Desktop\srt字幕修正器\srt字幕修正器\obj\Debug\srt字幕修正器.exe
+C:\Users\崇\Desktop\srt字幕修正器\srt字幕修正器\obj\Debug\srt字幕修正器.pdb
